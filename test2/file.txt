@@ -1,0 +1,12 @@
+SURGERY:
+Hospital: hospital1 | NbDoctors: 43 | NbPatients: 2 | not efficient
+NEONATAL:
+Hospital: hospital3 | NbDoctors: 43 | AverageGrade: 9.000000 | is efficient
+SURGERY:
+Hospital: hospital2 | NbDoctors: 43 | NbPatients: 100 | is efficient
+NEONATAL:
+Hospital: hospital3 | NbDoctors: 43 | AverageGrade: 6.000000 | not efficient
+SURGERY:
+Hospital: asdf | NbDoctors: 50 | NbPatients: 112 | is efficient
+NEONATAL:
+Hospital: h | NbDoctors: 8 | AverageGrade: 4.600000 | not efficient
