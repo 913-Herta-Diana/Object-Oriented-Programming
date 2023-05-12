@@ -1,0 +1,21 @@
+[2023-05-08 09:12:07] [info] Start Program:
+Path:"C:\Users\herta\Desktop\UBB\UBB_SEM2\OOP\Labs\OOP6\x64\Debug\OOP6.exe"
+Arguments:
+Working directory: "C:\Users\herta\Desktop\UBB\UBB_SEM2\OOP\Labs\OOP6\"
+Modules: Selected: C:\Users\herta\Desktop\UBB\UBB_SEM2\OOP\Labs\OOP6\x64\Debug\OOP6.exe Excluded: 
+Sources: Selected: C:\Users\herta\Desktop\UBB\UBB_SEM2\OOP\Labs\OOP6 Excluded: user.cpp user.h exception.h validation.cpp exception.cpp validation.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\herta\AppData\Local\Temp\bs0yh1rc.taf 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-05-08 09:12:07] [info] Module: C:\Users\herta\Desktop\UBB\UBB_SEM2\OOP\Labs\OOP6\x64\Debug\OOP6.exe is selected because it matches selected pattern: C:\Users\herta\Desktop\UBB\UBB_SEM2\OOP\Labs\OOP6\x64\Debug\OOP6.exe
+[2023-05-08 09:12:08] [info] ----------------------------------------------------
+[2023-05-08 09:12:08] [info] Coverage binary generated in file: C:\Users\herta\AppData\Local\Temp\bs0yh1rc.taf
+[2023-05-08 09:12:08] [info] ----------------------------------------------------
