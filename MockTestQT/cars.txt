@@ -1,0 +1,5 @@
+Fiat|Bravo|2007|red
+Audi|A5|2007|blue
+Fiat|Idea|2003|black
+BMW|Coupe|2013|pink
+Ford|Fiesta|1976|yellow
